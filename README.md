@@ -1,3 +1,7 @@
+# Info
+
+In App.jsx, the TensorFlow face landmarks detector is first initialized along with the webcam. The webcam feed is then processed in real-time, and the detected facial landmarks are printed to the browser's console.
+
 # Setup
 
 Ensure Python Node.js, and npm is installed and configured on your system
@@ -21,7 +25,3 @@ npm run dev
 ```
 
 This will start the frontend development server at `http://localhost:5173`.
-
-# Info
-
-In App.jsx, the TensorFlow face landmarks detector is first initialized along with the webcam. The webcam feed is then processed in real-time, and the detected facial landmarks are printed to the browser's console.
