@@ -1,6 +1,6 @@
 # Info
 
-In App.jsx, the TensorFlow face landmarks detector is first initialized along with the webcam. The webcam feed is then processed in real-time, and the detected facial landmarks are printed to the browser's console. Uses WebGL for TensorFlow.js backend.
+In App.jsx, the TensorFlow face landmarks detector is first initialized along with the webcam. The webcam feed is then processed in real-time, and the detected facial landmarks are printed to the browser's console. This project uses WebGL for the TensorFlow.js backend.
 
 # Setup
 
