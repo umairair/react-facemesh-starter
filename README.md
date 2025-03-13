@@ -14,10 +14,8 @@ Ensure Node.js, and npm are installed and configured on your system.
 npm install
 ```
 
-#### 3. Run the frontend server
+#### 3. Run the frontend development server and visit the link
 
 ```bash
 npm run dev
 ```
-
-This will start the frontend development server at `http://localhost:5173`.
