@@ -5,7 +5,7 @@ Ensure Python Node.js, and npm is installed and configured on your system
 #### 1. Open a new terminal and cd into the `webapp` folder
 
 ```bash
-cd frontend
+cd webapp
 ```
 
 #### 2. Install Dependencies using npm
