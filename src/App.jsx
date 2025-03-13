@@ -67,7 +67,7 @@ function App() {
         ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
         const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
         const faces = await detector.estimateFaces(imageData);
-        console.log(faces.map(face => face.keypoints));
+        console.log(faces);
   
       } catch (error) {
         console.error("Error processing frame:", error);
