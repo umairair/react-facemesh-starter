@@ -4,7 +4,7 @@ In App.jsx, the TensorFlow face landmarks detector is first initialized along wi
 
 # Setup
 
-Ensure Node.js, and npm is installed and configured on your system
+Ensure Node.js, and npm is installed and configured on your system.
 
 #### 1. Open a new terminal and cd into the `webapp` folder
 
