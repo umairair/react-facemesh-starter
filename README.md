@@ -6,11 +6,7 @@ In App.jsx, the TensorFlow face landmarks detector is first initialized along wi
 
 Ensure Node.js, and npm is installed and configured on your system.
 
-#### 1. Open a new terminal and cd into the `webapp` folder
-
-```bash
-cd webapp
-```
+#### 1. Clone the repo and navigate to the folder in your terminal
 
 #### 2. Install Dependencies using npm
 
